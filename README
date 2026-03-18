@@ -1,0 +1,24 @@
+# PySpark_Assignment
+
+This repository contains structured solutions to PySpark assignments designed to build strong fundamentals in Data Engineering and distributed data processing.
+
+Each assignment follows a clean modular structure:
+
+- `util.py` → Core logic (no input/output, reusable functions)
+- `driver.py` → Handles input/output and execution
+- `test/` → Pytest test cases for validation
+
+---
+
+## Core PySpark Concepts Used
+
+- DataFrame creation (list, RDD, JSON)
+- Transformations vs Actions
+- Filtering and aggregations
+- Joins (inner, left, right)
+- Column operations (`withColumn`, renaming)
+- Partitioning (`repartition`, `coalesce`)
+- UDF (User Defined Functions)
+- JSON processing (`explode`, `posexplode`, `explode_outer`)
+- Date functions (`to_date`, `current_date`, `datediff`)
+- Writing data (CSV, Parquet, Tables)
