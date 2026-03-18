@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue Mar 17 15:05:52 IST 2026:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.16.1.1 - (1901046): instance a816c00e-019c-fb26-d556-000007aee1b8 
+on database directory D:\Aishwarya\DIGGIBYTE TECHNOLOGIES\PYSPARK\PySpark_DEMO\PySpark_Assignment\src\question4\metastore_db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@511d50c0 
+Loaded from file:/C:/Users/aishw/AppData/Local/Programs/Python/Python311/Lib/site-packages/pyspark/jars/derby-10.16.1.1.jar
+java.vendor=Eclipse Adoptium
+java.runtime.version=17.0.18+8
+user.dir=D:\Aishwarya\DIGGIBYTE TECHNOLOGIES\PYSPARK\PySpark_DEMO\PySpark_Assignment\src\question4
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
