@@ -1,4 +1,4 @@
-# PySpark_Assignment
+PySpark_Assignment
 
 This repository contains structured solutions to PySpark assignments designed to build strong fundamentals in Data Engineering and distributed data processing.
 
@@ -8,9 +8,8 @@ Each assignment follows a clean modular structure:
 - `driver.py` → Handles input/output and execution
 - `test/` → Pytest test cases for validation
 
----
 
-## Core PySpark Concepts Used
+Core PySpark Concepts Used
 
 - DataFrame creation (list, RDD, JSON)
 - Transformations vs Actions
